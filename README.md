@@ -17,7 +17,7 @@
  
  Este programa foi criado para resolver o seguinte problema:
  
- Exercício 7 (Página 94) - Exibir os seguintes padrÃµes, onde todos os asteriscos (\*) devem ser impressos por uma Ãºnica instrução da forma printf("\*"):
+ Exercício 7 (Página 94) - Exibir os seguintes padrões, onde todos os asteriscos (\*) devem ser impressos por uma Ãºnica instrução da forma printf("\*"):
 
 
 A) 
@@ -135,8 +135,8 @@ OBS: Caso prefira, utilize sua IDE de preferencia, ** lembrando que todos os có
 
 *  **Windows**
 
-      ASTERISCO.EXE
-      ASTERISCO2.EXE
+       ASTERISCO.EXE
+       ASTERISCO2.EXE
 
 * **Linux**
 
@@ -145,6 +145,6 @@ OBS: Caso prefira, utilize sua IDE de preferencia, ** lembrando que todos os có
  
 *  **MacOSX**
 
-      asterisco1-mac
-      asterisco2-mac
+       asterisco1-mac
+       asterisco2-mac
 
