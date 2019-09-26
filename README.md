@@ -118,7 +118,7 @@ OBS: Caso prefira, utilize sua IDE de preferencia, ** lembrando que todos os có
  2. Entrar no diretorio onde os programas foram compilados;
  3. Executar o comando abaixo:
 
-    ASTERISCO1 -a
+         ASTERISCO1 -a
 
  * **Linux / Mac**
  
@@ -127,7 +127,7 @@ OBS: Caso prefira, utilize sua IDE de preferencia, ** lembrando que todos os có
  3. Executar o comando abaixo:
 
 
-    ./asterisco1 -a
+        ./asterisco1 -a
 
 ## Executáveis pré-compilados
 
