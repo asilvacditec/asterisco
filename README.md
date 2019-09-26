@@ -1,10 +1,3 @@
-# hello-world!
-
-#### This is "Cido" from my first git project!
-
-    alias = 'ls -lrt'
-
-
 # Programa ASTERISCO
 
  Programa criado para fins de estudo pessoal sobre a linguagem de programação C. 
