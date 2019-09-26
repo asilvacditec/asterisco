@@ -55,64 +55,60 @@ C)
   ********
    *******
     ******
-	 *****
-	  ****
-	   ***
-	    **
-		 *
+     *****
+      ****
+       ***
+	**
+	 *
 ```
 
 D)
 ```
          *
-		**
-	   ***
-	  ****
-	 *****
-	******
+	**
+       ***
+      ****
+     *****
+    ******
    *******
   ********
  *********
 **********
 ```
 
-# InstruÃ§Ãµes de como compilar este programa
+# Instruções de como compilar este programa
 
-## PrÃ©-requisitos
+## Pré-requisitos
 
  * Ter o GCC instalado
  * Sistema operacional Windows / Linux / MacOSX
 
  Via linha de comando, entrar no diretorio onde estÃ£o localizados os cÃ³digos fontes e executar o comando abaixo:
 
-	gcc asterisco.c -o asterisco1
+    gcc asterisco.c -o asterisco1
     gcc asterisco2.c -o asterisco2
 
 
 OBS: Caso prefira, utilize sua IDE de preferencia, ** lembrando que todos os cÃ³digos fontes devem estar no mesmo diretÃ³rio **.
 
 
-# InstruÃ§Ãµes para execuÃ§Ã£o do programa depois de compilado
+# Instruções para execução do programa depois de compilado
 
   Executar o comando seguido de um sinal de menos (-) e a letra do exercÃ­cio.
 
 ## Windows
 
-```
-ASTERISCO1.EXE <-a -b -c -d>
+    ASTERISCO1.EXE <-a -b -c -d>
     
-ASTERISCO2.EXE <-a -b -c -d>
-```
+    ASTERISCO2.EXE <-a -b -c -d>
 
 ## Linux / Mac
 
-```
-./asterisco1 <-a -b -c -d>
+    ./asterisco1 <-a -b -c -d>
    
-./asterisco2 <-a -b -c -d>
-```
+    ./asterisco2 <-a -b -c -d>
 
-## Exemplos de execuÃ§Ã£o
+## Exemplos de execução
 
   Para exibir o resultado do exercÃ­cio (a):
 
@@ -122,10 +118,7 @@ ASTERISCO2.EXE <-a -b -c -d>
  2. Entrar no diretorio onde os programas foram compilados;
  3. Executar o comando abaixo:
 
-```
-
-      ASTERISCO1 -a
-```
+    ASTERISCO1 -a
 
  * **Linux / Mac**
  
@@ -133,27 +126,25 @@ ASTERISCO2.EXE <-a -b -c -d>
  2. Entrar no diretorio onde os programas foram compilados;
  3. Executar o comando abaixo:
 
-```
 
-      ./asterisco1 -a
-```
+    ./asterisco1 -a
 
-## ExecutÃ¡veis prÃ©-compilados
+## Executáveis pré-compilados
 
   Se quiser somente executar o programa para ver os resultados, jÃ¡ disponibilizei junto com os cÃ³digos fontes os executÃ¡veis compilados para Windows, Linux e MacOSX conforme lista abaixo, basta baixar e executar:
 
 *  **Windows**
-```  
+
       ASTERISCO.EXE
       ASTERISCO2.EXE
-```
+
 * **Linux**
-```
+
       asterisco1-linux
       asterisco2-linux
-``` 
+ 
 *  **MacOSX**
-```
+
       asterisco1-mac
       asterisco2-mac
-```
+
