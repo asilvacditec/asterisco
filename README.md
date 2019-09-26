@@ -9,15 +9,15 @@
 
  Programa criado para fins de estudo pessoal sobre a linguagem de programaÃ§Ã£o C. 
  
- Baseado no Livro **"Primeiro Curso de ProgramaÃ§Ã£o em C " ** - Editora Visual Books - Autor:  ** Edson Luiz FranÃ§a Senne **.
+ Baseado no Livro **"Primeiro Curso de Programação em C " ** - Editora Visual Books - Autor:  ** Edson Luiz França Senne **.
  
  ![Alt text](img/livroCapa.jpeg) ![Alt text](img/livroContracapa.jpeg)
  
- Criei dois cÃ³digos fontes para a mesma finalidade porÃ©m por caminhos diferentes.
+ Criei dois códigos fontes para a mesma finalidade porém por caminhos diferentes.
  
  Este programa foi criado para resolver o seguinte problema:
  
- ExercÃ­cio 7 (PÃ¡gina 94) - Exibir os seguintes padrÃµes, onde todos os asteriscos (\*) devem ser impressos por uma Ãºnica instruÃ§Ã£o da forma printf("\*"):
+ Exercício 7 (Página 94) - Exibir os seguintes padrÃµes, onde todos os asteriscos (\*) devem ser impressos por uma Ãºnica instrução da forma printf("\*"):
 
 
 A) 
@@ -83,18 +83,18 @@ D)
  * Ter o GCC instalado
  * Sistema operacional Windows / Linux / MacOSX
 
- Via linha de comando, entrar no diretorio onde estÃ£o localizados os cÃ³digos fontes e executar o comando abaixo:
+ Via linha de comando, entrar no diretorio onde estÃ£o localizados os códigos fontes e executar o comando abaixo:
 
     gcc asterisco.c -o asterisco1
     gcc asterisco2.c -o asterisco2
 
 
-OBS: Caso prefira, utilize sua IDE de preferencia, ** lembrando que todos os cÃ³digos fontes devem estar no mesmo diretÃ³rio **.
+OBS: Caso prefira, utilize sua IDE de preferencia, ** lembrando que todos os códigos fontes devem estar no mesmo diretório **.
 
 
 # Instruções para execução do programa depois de compilado
 
-  Executar o comando seguido de um sinal de menos (-) e a letra do exercÃ­cio.
+  Executar o comando seguido de um sinal de menos (-) e a letra do exercício.
 
 ## Windows
 
@@ -110,7 +110,7 @@ OBS: Caso prefira, utilize sua IDE de preferencia, ** lembrando que todos os cÃ
 
 ## Exemplos de execução
 
-  Para exibir o resultado do exercÃ­cio (a):
+  Para exibir o resultado do exercício (a):
 
  * **Windows**
  
@@ -131,7 +131,7 @@ OBS: Caso prefira, utilize sua IDE de preferencia, ** lembrando que todos os cÃ
 
 ## Executáveis pré-compilados
 
-  Se quiser somente executar o programa para ver os resultados, jÃ¡ disponibilizei junto com os cÃ³digos fontes os executÃ¡veis compilados para Windows, Linux e MacOSX conforme lista abaixo, basta baixar e executar:
+  Se quiser somente executar o programa para ver os resultados, já¡ disponibilizei junto com os códigos fontes os executáveis compilados para Windows, Linux e MacOSX conforme lista abaixo, basta baixar e executar:
 
 *  **Windows**
 
