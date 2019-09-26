@@ -7,7 +7,7 @@
 
 # Programa ASTERISCO
 
- Programa criado para fins de estudo pessoal sobre a linguagem de programaÃ§Ã£o C. 
+ Programa criado para fins de estudo pessoal sobre a linguagem de programação C. 
  
  Baseado no Livro **"Primeiro Curso de Programação em C " ** - Editora Visual Books - Autor:  ** Edson Luiz França Senne **.
  
